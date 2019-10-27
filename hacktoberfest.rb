@@ -1,7 +1,8 @@
 class Hacktoberfest
 
   @@participants_list = [
-    "RyanJamesCaldwell"
+    "RyanJamesCaldwell",
+    "VesnaTrifunoska"
   ]
 
   def initialize
